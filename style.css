@@ -1,0 +1,24 @@
+.custom-navbar {
+    background-color: #352F44;
+}
+
+.custom-navbar a {
+  text-decoration: none;
+}
+
+.custom-container {
+    padding-right: 0;
+    padding-left: 0;
+}
+#map{
+    height: 450px;
+   } 
+@media (min-width:768px){
+    .card-img-top{
+      
+        height:32vh;
+      }
+   #map{
+    height:100%;
+   } 
+}
